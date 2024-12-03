@@ -1,0 +1,30 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/bakka-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/bakka-acountbakka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/bakka-wallet-service/pom.xml" />
+        <option value="$PROJECT_DIR$/bakka-bank-service/pom.xml" />
+        <option value="$PROJECT_DIR$/bakka-register-service/pom.xml" />
+        <option value="$PROJECT_DIR$/bakka-proxy-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/bakka-acountbakka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/bakka-bank-service/pom.xml" />
+        <option value="$PROJECT_DIR$/bakka-proxy-service/pom.xml" />
+        <option value="$PROJECT_DIR$/bakka-register-service/pom.xml" />
+        <option value="$PROJECT_DIR$/bakka-wallet-service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

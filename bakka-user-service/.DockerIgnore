@@ -1,0 +1,4 @@
+# Ignore Tous
+../.idea
+#kepp
+!target/*.jar
